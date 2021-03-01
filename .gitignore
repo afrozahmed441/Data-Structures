@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.project
+*.mk
+*.txt
+Debug/
+*.workspace
+*.codelite/
+Makefile
+../
+./
+
