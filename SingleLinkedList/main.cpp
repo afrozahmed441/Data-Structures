@@ -1,6 +1,8 @@
 #include <iostream>
 #include "SingleLinkedList.hpp"
 
+using namespace std;
+
 int main(){
     SingleLinkedList list1;
     int choice;
